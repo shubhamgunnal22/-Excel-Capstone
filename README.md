@@ -1,4 +1,4 @@
-# -Excel-Capstone
+# Excel-Capstone
 The project focused on analyzing data from Freshco Hypermarket, a prominent supermarket in Bangalore, to optimize its home delivery service. The data included comprehensive transaction details such as order distribution, delivery metrics, customer acquisition sources, and more.
 
 Order Level Analysis:
